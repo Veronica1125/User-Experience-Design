@@ -1,3 +1,3 @@
 # User-Experience-Design
 
-A mocked a food delivery mobile app prototype by Axure8 RP.
+Designed a mocked a food delivery mobile application prototype by Axure8 RP.
