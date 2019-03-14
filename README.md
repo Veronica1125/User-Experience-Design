@@ -1,3 +1,3 @@
 # User-Experience-Design
 
-Created a hi-fidelity food delivery mobile application prototype in Axure8 RP.
+Created a high-fidelity food delivery mobile application prototype in Axure8 RP.
